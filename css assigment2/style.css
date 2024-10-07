@@ -1,0 +1,271 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .main {
+    height: auto;
+    width: auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    justify-content: center;
+    background-color: rgb(216, 212, 212);
+  }
+  
+  .box-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+  }
+  
+  .hop-1 {
+    background-color: grey;
+    height: 150px;
+    width: 350px;
+    padding: 10px;
+  }
+  
+  .hop-1>h2 {
+    text-align: center;
+    margin-top: 25px;
+  }
+  
+  .hop-2 {
+    height: 150px;
+    width: 350px;
+    padding: 10px;
+    border: 1px solid grey;
+    border-bottom: none;
+    background-color: white;
+  }
+  
+  .hop-3 {
+    width: 350px;
+    padding: 10px;
+    border: 1px solid grey;
+    border-top: none;
+    background-color: white;
+  
+  }
+  
+  button {
+    width: 50px;
+    border: 1px solid;
+  }
+  
+  .box-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+    
+  }
+  
+  .hoop-1 {
+  
+    background-color: grey;
+    height: 150px;
+    width: 350px;
+    padding: 10px;
+  }
+  
+  .hoop-1>h2 {
+    text-align: center;
+    margin-top: 25px;
+  }
+  
+  .hoop-2 {
+    height: 150px;
+    width: 350px;
+    padding: 10px;
+    border: 1px solid grey;
+    border-bottom: none;
+    background-color: white;
+  }
+  
+  .hoop-3 {
+    width: 350px;
+    padding: 10px;
+    border: 1px solid grey;
+    border-top: none;
+    background-color: white;
+  }
+  
+  button {
+    width: 50px;
+    border: 1px solid;
+  }
+  
+  .box-3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+  }
+  
+  .hhop-1 {
+    background-color: grey;
+    height: 150px;
+    width: 350px;
+    padding: 10px;
+  }
+  
+  .hhop-1>h2 {
+    text-align: center;
+    margin-top: 25px;
+  }
+  
+  .hhop-2 {
+    height: 150px;
+    width: 350px;
+    padding: 10px;
+    border: 1px solid grey;
+    border-bottom: none;
+    background-color: white;
+  
+  }
+  
+  .hhop-3 {
+    width: 350px;
+    padding: 10px;
+    border: 1px solid grey;
+    border-top: none;
+    background-color: white;
+  }
+  
+  button {
+    width: 50px;
+    border: 1px solid;
+  }
+  
+  .box-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+  }
+  
+  .hooop-1 {
+    background-color: grey;
+    height: 150px;
+    width: 350px;
+    padding: 10px;
+  }
+  
+  .hooop-1>h2 {
+    text-align: center;
+    margin-top: 25px;
+  }
+  
+  .hooop-2 {
+    height: 150px;
+    width: 350px;
+    padding: 10px;
+    border: 1px solid grey;
+    border-bottom: none;
+    background-color: white;
+  }
+  
+  .hooop-3 {
+    width: 350px;
+    padding: 10px;
+    border: 1px solid grey;
+    border-top: none;
+    background-color: white;
+  }
+  
+  button {
+    width: 50px;
+    border: 1px solid;
+  }
+  
+  .box-5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+  }
+  
+  .hopp-1 {
+    background-color: grey;
+    height: 150px;
+    width: 350px;
+    padding: 10px;
+  }
+  
+  .hopp-1>h2 {
+    text-align: center;
+    margin-top: 25px;
+  }
+  
+  .hopp-2 {
+    height: 150px;
+    width: 350px;
+    padding: 10px;
+    border: 1px solid grey;
+    border-bottom: none;
+    background-color: white;
+  }
+  
+  .hopp-3 {
+    width: 350px;
+    padding: 10px;
+    border: 1px solid grey;
+    border-top: none;
+    background-color: white;
+  }
+  
+  button {
+    width: 50px;
+    border: 1px solid;
+  }
+  
+  .box-6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+  }
+  
+  .hhhop-1 {
+    background-color: grey;
+    height: 150px;
+    width: 350px;
+    padding: 10px;
+  }
+  
+  .hhhop-1>h2 {
+    text-align: center;
+    margin-top: 25px;
+  }
+  
+  .hhhop-2 {
+    height: 150px;
+    width: 350px;
+    padding: 10px;
+    border: 1px solid grey;
+    border-bottom: none;
+    background-color: white;
+  }
+  
+  .hhhop-3 {
+    width: 350px;
+    padding: 10px;
+    border: 1px solid grey;
+    border-top: none;
+    background-color: white;
+  }
+  
+  button {
+    width: 50px;
+    border: 1px solid;
+  }
